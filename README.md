@@ -60,6 +60,6 @@ Contributions to the project are welcome! If you have ideas for improvements, ne
 
 ## License
 
-This project is licensed under the [MIT License] (LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 Feel free to customize the README file further based on your preferences and additional project details.
