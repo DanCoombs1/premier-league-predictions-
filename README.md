@@ -4,16 +4,16 @@ This Python project scrapes football match data from the Premier League season s
 
 ## Table of Contents
 
-1. [Installation] (#installation)
-2. [Usage] (#usage)
-3. Dependencies
-4. Data Sources
-5. Project Structure
-6. Future Improvements
-7. Contributing
-8. License
+- [Installation](#installation)
+- [Usage](#usage)
+- [Dependencies](#dependencies)
+- [Data Sources](#data-sources)
+- [Project Structure](#project-structure)
+- [Future Improvements](#future-improvements)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Installation <a name="installation"></a>
+## Installation
 
 To run the project, follow these steps:
 
