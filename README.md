@@ -1,6 +1,6 @@
  # Premier League Match Predictor
 
-This Python project scrapes football match data from the Premier League season statistics website and builds a predictive model to forecast match outcomes. The predictor utilizes machine learning techniques, particularly a Random Forest Classifier, to analyze various team performance metrics and predict the results of future matches.
+This Python project scrapes football match data from the Premier League season statistics website and builds a predictive model to forecast match outcomes. The predictor utilizes machine learning techniques, particularly a Random Forest Classifier, to analyse various team performance metrics and predict the results of future matches.
 
 ## Table of Contents
 
